@@ -1,5 +1,5 @@
 # foundryup on Windows
-Explains how to get foundryup command on Windows.
+Explains how to get `foundryup` command on Windows.
 
 1. Create a folder
 2. Add folder to PATH
